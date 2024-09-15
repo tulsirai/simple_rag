@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Virtual environment directory
+env/
+venv/
+*.egg-info/
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg
+*.wheel
+
+# Pyenv and Python version
+.python-version
+
+# macOS specific
+.DS_Store
+
+# Test and coverage reports
+.coverage
+*.cover
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
